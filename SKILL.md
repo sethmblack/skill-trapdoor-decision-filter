@@ -3,8 +3,9 @@ name: trapdoor-decision-filter
 description: Classify decisions as one-way doors (trapdoors) or two-way doors to determine appropriate deliberation level. Move fast on reversible decisions; deliberate carefully on irreversible ones.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5218
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
 - transformation
